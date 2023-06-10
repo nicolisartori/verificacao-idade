@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(113, 81, 81);
+    padding-left: 30%;
+    padding-top: 5%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+div {
+    padding-left: 10%;
+}
